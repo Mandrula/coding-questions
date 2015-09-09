@@ -21,7 +21,12 @@ Lastly, 2 small coding questions. For each of these, the solution should be
 submitted in the form of a gist on gist.github.com. The implementation can be
 done in any language, but it's important that the code is treated and designed
 as if it was going to production.
-It should be well tested and documented, if necessary.
+
+The code you write should include everything you think is necessary to explain the solution:
+
+* Class definitions
+* Documentation
+* Tests
 
 
 1. Write some code, that will flatten an array of arbitrarily nested arrays of
