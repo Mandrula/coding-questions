@@ -29,8 +29,12 @@ The code you write should include everything you think is necessary to explain t
 * Tests
 
 
-1. Write some code, that will flatten an array of arbitrarily nested arrays of
-integers into a flat array of integers. e.g. [[1,2,[3]],4] -> [1,2,3,4].
+1. Given an array of n integers where _n > 1_, `nums`, return an array `output` such that `output[i]`
+is equal to the product of all the elements of nums except `nums[i]`.
+
+Solve it **without division** and leave a comment with the time complexity of your algorithm.
+
+For example, given `[1,2,3,4]`, return `[24,12,8,6]`.
 
 
 2. Given a specific number (let's call it `n`) and an array of numbers
